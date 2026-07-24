@@ -1,0 +1,42 @@
+.about{
+    padding:80px 10%;
+    background:white;
+}
+
+.about h2{
+    text-align:center;
+    color:#2563EB;
+    margin-bottom:50px;
+    font-size:40px;
+}
+
+.about-card{
+    background:#F8FAFC;
+    padding:40px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+.about-card p{
+    font-size:18px;
+    line-height:30px;
+}
+
+.details{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:30px;
+    margin-top:40px;
+}
+
+.details div{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+}
+
+.details h3{
+    color:#2563EB;
+    margin-bottom:15px;
+}
