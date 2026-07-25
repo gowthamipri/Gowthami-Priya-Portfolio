@@ -37,7 +37,7 @@ function Projects() {
 
   return (
     <section id="projects" className="projects">
-      <h2>My Projects</h2>
+      <h2>Major Projects</h2>
 
       <p className="subtitle">
         Here are some of the projects I have developed using modern technologies.
